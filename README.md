@@ -5,8 +5,7 @@
 ╚═══════════════════════════════════════════════════════════════════════════╝
 --->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2E9F7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Patrick+Sang+👋;GIS+Developer+%26+Spatial+Analyst;GeoAI+Specialist;Mapping+the+World+One+Layer+at+a+Time" alt="Typing SVG" />
+<h1 font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=2E9F7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Patrick+Sang+👋;GIS+Developer+%26+Spatial+Analyst;GeoAI+Specialist;Mapping+the+World+One+Layer+at+a+Time" alt="Typing SVG" />
 </h1>
 
 <p align="center">
