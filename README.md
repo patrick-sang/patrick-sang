@@ -35,15 +35,15 @@
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
- **Turning Geographic Data into Strategic Decisions**
+ Turning Geographic Data into Strategic Decisions
 
-> *"I unlock stories hidden within data, engineering solutions that help organizations optimize logistics, analyze trends, and make smarter, data-driven decisions."*
+> "I unlock stories hidden within data, engineering solutions that help organizations optimize logistics, analyze trends, and make smarter, data-driven decisions."*
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN6bWY5NnF2bWI4aWd0c2Mya3ZycWY5dnVjY2xxcnp5d3FteG56diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abB06u9bNzA8LC8/giphy.gif" alt="GIS Animation"/>
 
-I'm a **GIS Developer** passionate about building systems that transform complex spatial assets into reliable business tools. From automating workflows to deploying cloud-based mapping services, my focus is delivering tangible value through technology.
+My Name is Patrick Sang, a  GIS Developer passionate about building systems that transform complex spatial assets into reliable business tools. From automating workflows to deploying cloud-based mapping services, my focus is delivering tangible value through technology.
 
-** Current Focus:**
+ Current Focus:
 -  Building production-ready spatial ETL pipelines with Apache Airflow
 -  Learning 3D geovisualization with Deck.gl and Three.js
 -  Looking to collaborate on open-source geospatial projects
@@ -53,7 +53,7 @@ I'm a **GIS Developer** passionate about building systems that transform complex
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 **GitHub Achievements & Trophies**
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=patrick-sang&theme=darkhub&column=8&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
@@ -61,7 +61,7 @@ I'm a **GIS Developer** passionate about building systems that transform complex
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-##  **My Core Technical Stack**
+My Core Technical Stack
 
 <div align="center">
 
